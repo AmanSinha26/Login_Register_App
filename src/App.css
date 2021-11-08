@@ -1,0 +1,30 @@
+.regbtn{
+  background-color:rgb(255, 94, 0);
+  color:white;
+  margin-top:10px;
+  margin-left: 1%;
+  height: 25px;
+  border-radius: 15%;
+}
+.logbtn{
+  background-color:rgb(15, 165, 10);
+  color: white;
+  margin-top:10px;
+  margin-left: 1%;
+  height: 25px;
+  border-radius: 15%;
+}
+#msg{
+  color:red;
+  margin-left:0px;
+}
+#regdiv, #Logdiv{
+  margin-left:38%;
+}
+.form{
+  width: 35%;
+}
+#title1, #title2{
+  font-size: 28px;
+  font-style: italic;
+}
