@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Login_Register_App/static/css/main.4d24a521.chunk.css",
+    "main.js": "/Login_Register_App/static/js/main.7425fc12.chunk.js",
+    "main.js.map": "/Login_Register_App/static/js/main.7425fc12.chunk.js.map",
+    "runtime-main.js": "/Login_Register_App/static/js/runtime-main.e17fdc53.js",
+    "runtime-main.js.map": "/Login_Register_App/static/js/runtime-main.e17fdc53.js.map",
+    "static/js/2.e765ffae.chunk.js": "/Login_Register_App/static/js/2.e765ffae.chunk.js",
+    "static/js/2.e765ffae.chunk.js.map": "/Login_Register_App/static/js/2.e765ffae.chunk.js.map",
+    "index.html": "/Login_Register_App/index.html",
+    "static/css/main.4d24a521.chunk.css.map": "/Login_Register_App/static/css/main.4d24a521.chunk.css.map",
+    "static/js/2.e765ffae.chunk.js.LICENSE.txt": "/Login_Register_App/static/js/2.e765ffae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e17fdc53.js",
+    "static/js/2.e765ffae.chunk.js",
+    "static/css/main.4d24a521.chunk.css",
+    "static/js/main.7425fc12.chunk.js"
+  ]
+}
